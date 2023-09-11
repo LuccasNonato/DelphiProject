@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/08/09 18:29:13.000.229,=D:\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2016/08/09 18:29:42.000.628,D:\ProjetoCursoBasico\Forms\uFormFiltroVendas.pas=D:\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2016/08/09 18:29:42.000.628,D:\ProjetoCursoBasico\Forms\uFormFiltroVendas.dfm=D:\ProjetoCursoBasico\Unit1.dfm</Transaction>
+    <Transaction>2020/04/02 18:08:51.000.116,=D:\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 18:27:55.000.421,D:\Delphi\ProjetoCursoBasico\Forms\uFormFiltroUsuario.pas=D:\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 18:27:55.000.421,D:\Delphi\ProjetoCursoBasico\Forms\uFormFiltroUsuario.dfm=D:\Delphi\ProjetoCursoBasico\Unit1.dfm</Transaction>
+    <Transaction>2020/04/03 16:01:10.000.628,=D:\Delphi\ProjetoCursoBasico\Classes\uCrpt.pas</Transaction>
+    <Transaction>2020/04/03 16:01:55.000.674,D:\Delphi\ProjetoCursoBasico\Classes\uCrpt.pas=</Transaction>
+    <Transaction>2020/04/03 16:03:44.000.410,=D:\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2020/04/03 16:05:32.000.388,D:\Delphi\ProjetoCursoBasico\Forms\uFormCadastroUsuario.dfm=D:\Delphi\ProjetoCursoBasico\Unit1.dfm</Transaction>
+    <Transaction>2020/04/03 16:05:32.000.388,D:\Delphi\ProjetoCursoBasico\Forms\uFormCadastroUsuario.pas=D:\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2020/04/03 16:34:01.000.259,=D:\Delphi\ProjetoCursoBasico\Classes\uCrpt.pas</Transaction>
+    <Transaction>2020/04/03 17:03:36.000.543,=D:\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2020/04/03 17:10:11.000.434,D:\Delphi\ProjetoCursoBasico\Forms\uFormLogin.dfm=D:\Delphi\ProjetoCursoBasico\Unit1.dfm</Transaction>
+    <Transaction>2020/04/03 17:10:11.000.434,D:\Delphi\ProjetoCursoBasico\Forms\uFormLogin.pas=D:\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2023/09/11 08:49:10.000.301,=C:\Users\Luccas\Desktop\projetos\curso delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2023/09/11 08:50:04.000.773,=C:\Users\Luccas\Desktop\projetos\curso delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2023/09/11 08:50:47.000.800,C:\Users\Luccas\Desktop\projetos\curso delphi\ProjetoCursoBasico\Unit1.dfm=C:\Users\Luccas\Desktop\projetos\curso delphi\ProjetoCursoBasico\Forms\uFormMainDev.dfm</Transaction>
+    <Transaction>2023/09/11 08:50:47.000.800,C:\Users\Luccas\Desktop\projetos\curso delphi\ProjetoCursoBasico\Unit1.pas=C:\Users\Luccas\Desktop\projetos\curso delphi\ProjetoCursoBasico\Forms\uFormMainDev.pas</Transaction>
+    <Transaction>2023/09/11 08:58:39.000.414,=C:\Users\Luccas\Desktop\projetos\curso delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2023/09/11 08:59:09.000.937,C:\Users\Luccas\Desktop\projetos\curso delphi\ProjetoCursoBasico\Unit1.dfm=C:\Users\Luccas\Desktop\projetos\curso delphi\ProjetoCursoBasico\Forms\uFormMainDevExpress.dfm</Transaction>
+    <Transaction>2023/09/11 08:59:09.000.937,C:\Users\Luccas\Desktop\projetos\curso delphi\ProjetoCursoBasico\Unit1.pas=C:\Users\Luccas\Desktop\projetos\curso delphi\ProjetoCursoBasico\Forms\uFormMainDevExpress.pas</Transaction>
+    <Transaction>2023/09/11 14:06:55.024,C:\Users\Luccas\Desktop\projeto\DelphiProject-main\Forms\uFormMainDev.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
